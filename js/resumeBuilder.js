@@ -1,1 +1,1 @@
-$("#main").append(Tanmay);
+$("#main").append("Tanmay");
